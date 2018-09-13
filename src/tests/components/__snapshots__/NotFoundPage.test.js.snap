@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ExpenseDashboard Page 1`] = `
+<div>
+  404 - 
+  <Link
+    replace={false}
+    to="/"
+  >
+    Home Page
+  </Link>
+  <Link
+    replace={false}
+    to="/create"
+  >
+    Create Expense Page
+  </Link>
+  <Link
+    replace={false}
+    to=""
+  >
+    Edit Page
+  </Link>
+  <Link
+    replace={false}
+    to=""
+  >
+    Help Page
+  </Link>
+</div>
+`;
